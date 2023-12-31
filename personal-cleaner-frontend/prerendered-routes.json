@@ -1,0 +1,11 @@
+{
+  "routes": [
+    "/",
+    "/faqs",
+    "/schedule-your-appointment",
+    "/service/equipments",
+    "/service/products",
+    "/service/technical-assistance",
+    "/service/training"
+  ]
+}
